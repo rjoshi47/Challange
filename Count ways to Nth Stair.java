@@ -1,4 +1,6 @@
 /*
+https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1
+
 Lets say we have stairs A,B,C and F as final stair.
 A -> B -> C -> F
 Let path to reach F from C: P1 -(i)
