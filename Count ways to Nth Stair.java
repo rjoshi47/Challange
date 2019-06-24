@@ -34,7 +34,7 @@ More: As, X can be any random stair lets say we reach X from unique paths U1, U2
 There will always be duplicate paths and only unique path till X can be considered and unique path till X will be
 1 + X/2 (all 1's + duplicates generated using viii & ix).
 
-PS: Climb or Descent stairs the unique path will be factored by no.of steps user can take. 
+PS: Climb or Descent stairs the unique path will be factored by no.of steps user can take like n/2 in this case. 
 
 */
 
